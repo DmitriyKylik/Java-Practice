@@ -5,6 +5,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Tra-ta-ta");
+        System.out.println("Tra-ta-a");
     }
 }
